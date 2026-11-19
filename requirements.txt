@@ -1,1 +1,1 @@
-streamlit >= 1.33  (st.popover, st.date_input(value=None))
+streamlit >= 1.33
